@@ -6,3 +6,4 @@ scenario 3 : return ticket
 //by nithish bro
 senraio 3 : second statemen 
 >>>>>>> laskhman
+senario 4 : pull function
