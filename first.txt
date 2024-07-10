@@ -1,3 +1,8 @@
 scenario 1 : flight ticket booking
 
+//by lakshman
 scenario 3 : return ticket
+=======
+//by nithish bro
+senraio 3 : second statemen 
+>>>>>>> laskhman
